@@ -1,6 +1,6 @@
 ## Welcome ~
  
-<h3>Hi~ I'm Yoohyeokjin. </h3>
+<h3>Hi~ I'm Yoo Hyeokjin. </h3>
 <img src="/profileImg.jpg" alt="profileImg" width="200px" />  
 
 - Seoul National University of Science & Technology Computer Engineering  

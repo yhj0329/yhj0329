@@ -5,3 +5,4 @@
 
 - Seoul National University of Science & Technology Computer Engineering  
 - instagram: [@yhjmir0329](https://www.instagram.com/yhjmir0329/)
+- e-mail: wlrnfyd0329@gmail.com
